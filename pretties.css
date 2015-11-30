@@ -1,3 +1,15 @@
 .main_heading {
   text-align: center;
 }
+
+.player1_form {
+  border: 1px solid;
+  border-color: black;
+  width:27%;
+}
+
+.player2_form {
+  border: 1px solid;
+  border-color: black;
+  width:27%;
+}
